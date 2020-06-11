@@ -1,0 +1,2 @@
+# Ecoleta
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7f3e98f5bfff44608bd6de67974b6c25)](https://app.codacy.com/manual/felipetrova/Ecoleta?utm_source=github.com&utm_medium=referral&utm_content=felipetrova/Ecoleta&utm_campaign=Badge_Grade_Dashboard)
